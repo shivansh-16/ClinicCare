@@ -2,7 +2,7 @@
 
 A comprehensive web-based Clinic Management System built with React, TypeScript, and Firebase that facilitates seamless communication between doctors and receptionists while managing patient records, tokens, prescriptions, and billing.
 
-![MediCare Logo](https://images.pexels.com/photos/4386466/pexels-photo-4386466.jpeg?auto=compress&cs=tinysrgb&w=800)
+![MediCare Logo](./Clinic%20care%20ss.png)
 
 ## 🌟 Features
 
